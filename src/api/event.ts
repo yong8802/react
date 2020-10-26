@@ -9,7 +9,7 @@ const headers = {
 
 export function getReply(params: ApiDataType) {
     return request({
-        url: `${API_CONTEXT}/api/p/healthCare/upart`, // 임시 API
+        url: `${API_CONTEXT}`,
         method: 'GET',
         headers,
         params,

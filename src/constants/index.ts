@@ -1,1 +1,1 @@
-export const API_CONTEXT: string = 'https://api-dev.cori.pet';
+export const API_CONTEXT: string = '';
